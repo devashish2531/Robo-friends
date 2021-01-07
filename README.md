@@ -1,4 +1,4 @@
-# RoboFriends ## [Live Preview](https://friends-robo.herokuapp.com/)
+# RoboFriends [Live Preview](https://friends-robo.herokuapp.com/)
 
 RoboFriends is a React app that lets you search between different API generated robots by name. It's fully responsive and functional in different screen sizes.
 
